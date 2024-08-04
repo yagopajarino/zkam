@@ -3,7 +3,7 @@
 ![License: AGPLv3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg) 
 
 <p align="center">
-  <img src="https://github.com/arturoBeccar/zkam/blob/documentation/assets/zkam-banner.png" alt="Is it a zkam? 🛸😱" width="100"/>
+  <img src="./assets/zkam-banner.png" alt="Is it a zkam? 🛸😱" width="100"/>
 </p>
 
 ## Project Overview
@@ -13,6 +13,10 @@ Have you ever looked at a photo and wondered: **Is it a zkam?** 🛸😱
 Introducing zkam, the photo authentication app that leverages zero-knowledge proofs to ensure image ownership and integrity. With zkam, users can capture photos, automatically sign them with their unique digital signature, and verify ownership without compromising privacy. Our seamless process encrypts signature data directly into the image, generates a secure hash, and creates a zero-knowledge proof—all while maintaining the user's anonymity.
 
 Whether you're a photographer protecting your work, a journalist verifying sources, or anyone concerned about image authenticity in the digital age, zkam provides a powerful, user-friendly solution for proving photo ownership and authenticity without revealing sensitive information.
+
+## Repository Structure
+-  **[Front-end Code](https://github.com/NicolasBiondini/zkam)**: This directory contains the source code for the front-end application, including UI components, state management, and API integrations.
+- **[Smart Contract Code](https://sepolia.scrollscan.com/address/0x95bd8d42f30351685e96c62eddc0d0613bf9a87a#code)**: This directory includes the smart contract code written in Solidity and deployed in Scroll.
 
 ## How does it work?
 
