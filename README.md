@@ -16,7 +16,7 @@ Whether you're a photographer protecting your work, a journalist verifying sourc
 
 ## Repository Structure
 -  **[Front-end Code](https://github.com/NicolasBiondini/zkam)**: This directory contains the source code for the front-end application, including UI components, state management, and API integrations.
-- **[Smart Contract Code](link-to-smart-contract)**: This directory includes the smart contract code written in Solidity and deployed in Scroll.
+- **[Smart Contract Code](https://sepolia.scrollscan.com/address/0x95bd8d42f30351685e96c62eddc0d0613bf9a87a#code)**: This directory includes the smart contract code written in Solidity and deployed in Scroll.
 
 ## How does it work?
 
