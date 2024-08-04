@@ -14,6 +14,10 @@ Introducing zkam, the photo authentication app that leverages zero-knowledge pro
 
 Whether you're a photographer protecting your work, a journalist verifying sources, or anyone concerned about image authenticity in the digital age, zkam provides a powerful, user-friendly solution for proving photo ownership and authenticity without revealing sensitive information.
 
+## Repository Structure
+-  **[Front-end Code]([link-to-frontend](https://github.com/NicolasBiondini/zkam))**: This directory contains the source code for the front-end application, including UI components, state management, and API integrations.
+- **[Smart Contract Code](link-to-smart-contract)**: This directory includes the smart contract code written in [Solidity/ink!/etc.], deployment scripts, and contract tests.
+
 ## How does it work?
 
 We use [steganography](https://github.com/NicolasBiondini/steganography-project/tree/main) to embed the hash of the original image into our `zkam-proof` image, allowing the user to verify the authenticity of the captured photo.
