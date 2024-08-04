@@ -3,7 +3,7 @@
 ![License: AGPLv3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg) 
 
 <p align="center">
-  <img src="https://github.com/arturoBeccar/zkam/blob/documentation/assets/zkam-banner.png" alt="Is it a zkam? 🛸😱" width="100"/>
+  <img src="./assets/zkam-banner.png" alt="Is it a zkam? 🛸😱" width="100"/>
 </p>
 
 ## Project Overview
